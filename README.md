@@ -7,6 +7,9 @@ Via metamask wallet, on the Goerli testnet.
 
 Most of the work went into generating these images, then renaming the files, uploading to IPFS(pinata), making sure the .sol file's smart contract has the relevant NFT details in the constructor function, making sure the image files and .json files are in their respective folders, launching browser based Remix, setting up the .sol file there, selecting Goerli testnet, correct solidity version, etc.
 
+My minted NFTs on the Goerli testnet can be seen here:
+https://testnets.opensea.io/collection/artificial-intelligence-nft-gwvwdn2v6y
+
 
 https://ipfs.io/ipfs/QmScP483ChbDu9tvG2EBzGG9TJKvoB31aJLVN6wpyD3Tf8/AI-NFT-STABLE-DIFFUSION_1.json
 https://ipfs.io/ipfs/QmScP483ChbDu9tvG2EBzGG9TJKvoB31aJLVN6wpyD3Tf8/AI-NFT-STABLE-DIFFUSION_2.json
